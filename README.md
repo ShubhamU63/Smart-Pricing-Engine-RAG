@@ -26,27 +26,15 @@ It uses:
 
 ## 📂 Project Structure
 .
-├── rag/
-│   ├── retriever.py        # Loads embeddings & retrieves context from vector DB
-│   ├── schema.py           # Defines Quote schema using Pydantic
-│   ├── labor_calc.py       # Calculates labor cost
-│   ├── vat_rules.py        # Returns VAT rates by country
-│   ├── embedder.py         # Creates vector DB
-├── materials.json          # Example materials dataset
-├── price_template.csv      # Example price template dataset
-├── app.py                  # Main script to run the engine
-├── requirements.txt        # Python dependencies
-└── output/
-    └── sample_quote.json   # Generated quote output
-
+<img width="689" height="302" alt="image" src="https://github.com/user-attachments/assets/3c63a305-6ea0-4032-a6d4-e27619492e1b" />
 ---
 
 ## ⚙️ Installation
 
 1️⃣ **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/smart-pricing-engine.git
-cd smart-pricing-engine
+git clone https://github.com/ShubhamU63/Smart-Pricing-Engine-RAG.git
+cd Smart-Pricing-Engine-RAG
 ```
 
 2️⃣ **Create a virtual environment**
@@ -157,8 +145,3 @@ Example output:
 - Integration with speech-to-text for direct audio input
 - Web UI for quote generation
 - More granular task breakdowns
-
----
-
-## 📜 License
-MIT License. See `LICENSE` for details.
