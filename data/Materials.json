@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "category": "Tiles & Flooring",
+      "items": [
+        { "name": "Ceramic Floor Tile", "unit": "m²", "material_cost": 20 },
+        { "name": "Porcelain Wall Tile", "unit": "m²", "material_cost": 28 },
+        { "name": "Vinyl Flooring", "unit": "m²", "material_cost": 18 },
+        { "name": "Laminate Flooring", "unit": "m²", "material_cost": 22 },
+        { "name": "Grout & Adhesive", "unit": "kg", "material_cost": 5 }
+      ]
+    },
+    {
+      "category": "Plumbing Fixtures",
+      "items": [
+        { "name": "Standard Toilet", "unit": "unit", "material_cost": 120 },
+        { "name": "Vanity Sink Unit", "unit": "unit", "material_cost": 150 },
+        { "name": "Shower Mixer Tap", "unit": "unit", "material_cost": 85 },
+        { "name": "PVC Pipes", "unit": "m", "material_cost": 4 },
+        { "name": "Copper Pipes", "unit": "m", "material_cost": 8 }
+      ]
+    },
+    {
+      "category": "Paint & Finishes",
+      "items": [
+        { "name": "Interior Wall Paint", "unit": "L", "material_cost": 15 },
+        { "name": "Primer", "unit": "L", "material_cost": 12 },
+        { "name": "Varnish", "unit": "L", "material_cost": 18 },
+        { "name": "Wall Putty", "unit": "kg", "material_cost": 3 }
+      ]
+    },
+    {
+      "category": "Electrical",
+      "items": [
+        { "name": "LED Ceiling Light", "unit": "unit", "material_cost": 25 },
+        { "name": "Electrical Wire", "unit": "m", "material_cost": 1.2 },
+        { "name": "Switch & Socket Set", "unit": "unit", "material_cost": 8 },
+        { "name": "Circuit Breaker", "unit": "unit", "material_cost": 35 }
+      ]
+    },
+    {
+      "category": "General Building Materials",
+      "items": [
+        { "name": "Cement", "unit": "kg", "material_cost": 0.4 },
+        { "name": "Sand", "unit": "m³", "material_cost": 35 },
+        { "name": "Gravel", "unit": "m³", "material_cost": 40 },
+        { "name": "Concrete Mix", "unit": "kg", "material_cost": 0.6 },
+        { "name": "Bricks", "unit": "unit", "material_cost": 0.5 }
+      ]
+    }
+  ]
+}

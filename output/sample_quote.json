@@ -1,0 +1,95 @@
+{
+  "system": "System T",
+  "zones": [
+    {
+      "name": "Bathroom"
+    }
+  ],
+  "tasks": [
+    {
+      "name": "Tile Removal",
+      "estimated_duration": "4 m\u00b2",
+      "labor": {
+        "hours": 4.0,
+        "rate_per_hour": 15.0,
+        "total": 60.0
+      },
+      "material_cost": 8.0,
+      "vat_rate": 0.2,
+      "total_price": 95.2,
+      "margin": 13.6,
+      "confidence_score": 0.9
+    },
+    {
+      "name": "Ceramic Floor Tiling",
+      "estimated_duration": "4 m\u00b2",
+      "labor": {
+        "hours": 6.67,
+        "rate_per_hour": 15.0,
+        "total": 100.05
+      },
+      "material_cost": 80.0,
+      "vat_rate": 0.2,
+      "total_price": 252.07,
+      "margin": 36.01,
+      "confidence_score": 0.9
+    },
+    {
+      "name": "Plumbing for Shower",
+      "estimated_duration": "1 unit",
+      "labor": {
+        "hours": 16.67,
+        "rate_per_hour": 15.0,
+        "total": 250.05
+      },
+      "material_cost": 180.0,
+      "vat_rate": 0.2,
+      "total_price": 602.07,
+      "margin": 86.01,
+      "confidence_score": 0.9
+    },
+    {
+      "name": "Toilet Replacement",
+      "estimated_duration": "1 unit",
+      "labor": {
+        "hours": 6.67,
+        "rate_per_hour": 15.0,
+        "total": 100.05
+      },
+      "material_cost": 120.0,
+      "vat_rate": 0.2,
+      "total_price": 308.07,
+      "margin": 44.01,
+      "confidence_score": 0.9
+    },
+    {
+      "name": "Vanity Installation",
+      "estimated_duration": "1 unit",
+      "labor": {
+        "hours": 5.33,
+        "rate_per_hour": 15.0,
+        "total": 79.95
+      },
+      "material_cost": 150.0,
+      "vat_rate": 0.2,
+      "total_price": 321.93,
+      "margin": 45.99,
+      "confidence_score": 0.9
+    },
+    {
+      "name": "Wall Repainting",
+      "estimated_duration": "4 m\u00b2",
+      "labor": {
+        "hours": 2.13,
+        "rate_per_hour": 15.0,
+        "total": 31.95
+      },
+      "material_cost": 16.0,
+      "vat_rate": 0.2,
+      "total_price": 67.13,
+      "margin": 9.59,
+      "confidence_score": 0.9
+    }
+  ],
+  "margin": 39.2
+}

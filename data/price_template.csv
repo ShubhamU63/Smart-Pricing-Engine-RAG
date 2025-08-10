@@ -1,0 +1,13 @@
+task,category,unit,Labor,material_cost,vat_rate,margin
+Tile Removal,Tiles & Flooring,m²,15,2,0.20,0.25
+Ceramic Floor Tiling,Tiles & Flooring,m²,25,20,0.20,0.26
+Porcelain Wall Tiling,Tiles & Flooring,m²,28,25,0.20,0.27
+Plumbing for Shower,Plumbing Fixtures,unit,250,180,0.20,0.30
+Toilet Replacement,Plumbing Fixtures,unit,100,120,0.20,0.28
+Vanity Installation,Plumbing Fixtures,unit,80,150,0.20,0.27
+Wall Repainting,Paint & Finishes,m²,8,4,0.20,0.25
+Ceiling Painting,Paint & Finishes,m²,9,4,0.20,0.25
+Electrical Rewiring,Electrical,m,4,1.2,0.20,0.28
+LED Light Installation,Electrical,unit,20,25,0.20,0.26
+Concrete Pouring,General Building Materials,m³,50,40,0.20,0.25
+Brick Wall Construction,General Building Materials,m²,35,15,0.20,0.25
